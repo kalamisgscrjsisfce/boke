@@ -9,7 +9,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "123456789@mail.com"
+    "url": "mailto:123456789@gmail.com"
   },
   {
     "name": "Twitter",
